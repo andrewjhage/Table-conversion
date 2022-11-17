@@ -1,9 +1,3 @@
-/*
- * Andrew Hage
- * 11/7/2022
- * 5.5 Table conversion of kilograms to pounds and vice vera
- */
-
 public class Conversion{
     public static void main(String[] args){
         System.out.printf("%-10s %8s    |     %-8s %10s%n",
